@@ -1,5 +1,6 @@
 ﻿# product-manager-app
 # 📦 Product Manager – Full Stack E-commerce App
+<img width="1363" height="652" alt="snip" src="https://github.com/user-attachments/assets/90a0b5fc-0563-4b8a-b7df-ae02bd6b56d2" />
 
 A clean and responsive product management app built with **React**, **Node.js**, **Express**, **MongoDB**, and **GraphQL**.
 
