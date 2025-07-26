@@ -4,7 +4,6 @@
 
 A clean and responsive product management app built with **React**, **Node.js**, **Express**, **MongoDB**, and **GraphQL**.
 
-![Product Manager Screenshot](snip.PNG)
 
 ## 🔧 Features
 - Add, edit, and manage product items (name, price, image)
